@@ -1,0 +1,1 @@
+Gt instructions.md - ошибка в 69 строке
